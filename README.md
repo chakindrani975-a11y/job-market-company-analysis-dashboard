@@ -1,5 +1,5 @@
 # job-market-company-analysis-dashboard
-Interactive Job Market &amp; Company Analysis Dashboard built with Python, SQL, Power BI, and an interactive web dashboard.
+Interactive Job Market in Linkedln & Job market analysis dashboard built with Python, SQL, Power BI, and an interactive web dashboard.
 # Job Market & Company Analysis Dashboard
 
 An interactive data analytics project analyzing job postings, companies, salaries, work types, experience levels, locations, applications, and engagement trends.
@@ -10,9 +10,6 @@ The project combines **Python, SQL, Power BI, and an interactive web dashboard**
 
 ### Interactive Web Dashboard
 The web dashboard allows users to explore key job-market insights directly in a browser without installing Power BI.
-
-**Live Dashboard:**  
-Add your GitHub Pages URL here after publishing.
 
 ### Power BI Dashboard
 

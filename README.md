@@ -114,3 +114,9 @@ SQL Analysis
 Power BI
        ↓
 Interactive Dashboard
+
+## 🌐 Live Dashboard
+
+👉 **[Open the Interactive Job Market & Company Analysis Dashboard](https://chakindrani975-a11y.github.io/job-market-company-analysis-dashboard/)**
+
+An interactive data analytics project analyzing job postings, companies, salaries, work types, experience levels, locations, applications, and engagement trends.
